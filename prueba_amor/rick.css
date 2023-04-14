@@ -10,7 +10,7 @@ nav{
     display: flex;
     width: 100%;
     height: 100px;
-    background-image: url(https://wallpaperaccess.com/full/7327730.jpg);
+    background-image: url(https://images.unsplash.com/photo-1528722828814-77b9b83aafb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
     padding-inline: 20%;
     align-items: center;
     justify-content: center;
@@ -29,12 +29,4 @@ nav ul{
     font-size: 20px;
     font-weight: 500;
     color: black;
-}
-.inicio{
-    display: flex;
-    width: 70%;
-}
-.image{
-    display: flex;
-    border-radius: 5px;
-}
+    

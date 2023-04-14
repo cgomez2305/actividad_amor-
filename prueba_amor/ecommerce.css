@@ -10,7 +10,7 @@ nav{
     display: flex;
     width: 100%;
     height: 15%;
-    background-color: rgb(156, 245, 245);
+    background-color: rgb(61, 212, 194);
     padding-inline: 20%;
     align-items: center;
     justify-content: center;
@@ -43,13 +43,22 @@ nav ul{
 
 .card{
     width: 20%;
-    height: 200px;
-    background-color: rgb(48, 29, 110);
-    color: white;
+    height: 320px;
+    background-color: rgb(27, 176, 169);
+    color: rgb(8, 6, 6);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
     padding: 20px;
     border-radius: 10px;
+}
+.card img{
+    width: 20%
+}
+.categoria{
+    padding: 5px;
+    background-color: rgb(231, 79, 231);
+    color: white;
+    border-radius: 5px
 }
